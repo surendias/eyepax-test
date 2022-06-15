@@ -1,0 +1,2 @@
+- /server : contains the node server
+- /carousel : contains the react app
